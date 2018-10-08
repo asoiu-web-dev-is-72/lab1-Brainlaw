@@ -1,0 +1,44 @@
+.main {
+	margin: 0 auto;
+	margin-bottom: 0;
+	background-color: #E6E6FA;
+	background-image: url(../img/kino.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.main_bio {
+	width: 550px;
+	background-color: rgba(192,192,192, .75);
+	margin-right: 0 auto;
+	padding-bottom: 5px;
+}
+p {
+	padding-top: 0px;
+	margin-left: 15px;
+	font-style: italic;
+}
+h1 {
+	text-align: center;
+}
+h1, h2 {
+	padding-top: 0px;
+	margin-left: 5px;
+}
+.links_ul {
+	width: 300px;
+	margin: 0 auto;
+/*	border: 1px solid grey;*/
+}
+.links_ol {
+	width: 300px;
+	margin: 0 auto;
+/*	border: 1px solid grey;*/
+}
+a:hover {
+	text-decoration: underline;
+}
+a:visited {
+	color: #800080;
+}
+
